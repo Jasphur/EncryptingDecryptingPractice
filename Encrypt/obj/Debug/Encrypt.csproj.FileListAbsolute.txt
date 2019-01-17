@@ -1,0 +1,15 @@
+C:\Projects\Grappen\EncryptSoltuion\Encrypt\bin\Debug\Encrypt.exe.config
+C:\Projects\Grappen\EncryptSoltuion\Encrypt\bin\Debug\Encrypt.exe
+C:\Projects\Grappen\EncryptSoltuion\Encrypt\bin\Debug\Encrypt.pdb
+C:\Projects\Grappen\EncryptSoltuion\Encrypt\obj\Debug\Encrypt.csprojAssemblyReference.cache
+C:\Projects\Grappen\EncryptSoltuion\Encrypt\obj\Debug\MainWindow.g.cs
+C:\Projects\Grappen\EncryptSoltuion\Encrypt\obj\Debug\App.g.cs
+C:\Projects\Grappen\EncryptSoltuion\Encrypt\obj\Debug\Encrypt_MarkupCompile.cache
+C:\Projects\Grappen\EncryptSoltuion\Encrypt\obj\Debug\Encrypt_MarkupCompile.lref
+C:\Projects\Grappen\EncryptSoltuion\Encrypt\obj\Debug\MainWindow.baml
+C:\Projects\Grappen\EncryptSoltuion\Encrypt\obj\Debug\Encrypt.g.resources
+C:\Projects\Grappen\EncryptSoltuion\Encrypt\obj\Debug\Encrypt.Properties.Resources.resources
+C:\Projects\Grappen\EncryptSoltuion\Encrypt\obj\Debug\Encrypt.csproj.GenerateResource.cache
+C:\Projects\Grappen\EncryptSoltuion\Encrypt\obj\Debug\Encrypt.csproj.CoreCompileInputs.cache
+C:\Projects\Grappen\EncryptSoltuion\Encrypt\obj\Debug\Encrypt.exe
+C:\Projects\Grappen\EncryptSoltuion\Encrypt\obj\Debug\Encrypt.pdb
